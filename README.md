@@ -1,2 +1,2 @@
-# lex_sample_inputs
-Sample input codes for lex
+# Test Repo
+This is a test repository.
